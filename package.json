@@ -5,7 +5,8 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "homepage":"https://github.com/hasan9794/Mini-Hackathon/"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -25,5 +26,5 @@
     "not op_mini all"
   ]
 
-  "homepage":"https://github.com/hasan9794/Mini-Hackathon/"
+  
 }
